@@ -74,3 +74,7 @@ Refer to each section above for detailed setup instructions, configurations, and
 ## Author
 **Diego de Luis Ballesteros**  
 [University of Granada]
+
+If you wish to contribute to this project, feel free to fork the repository and submit a pull request with your improvements.
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
